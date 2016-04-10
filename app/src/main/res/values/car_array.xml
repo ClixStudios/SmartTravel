@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_make_array">
+        <item>Make</item>
+        <item>Ford</item>
+        <item>Vauxhall</item>
+        <item>Volkswagen</item>
+    </string-array>
+
+    <string-array name="no_model_array">
+        <item>Model</item>
+    </string-array>
+
+    <string-array name="ford_model_array">
+        <item>Model</item>
+        <item>Focus</item>
+        <item>Fiesta</item>
+    </string-array>
+
+    <string-array name="vauxhall_model_array">
+        <item>Model</item>
+        <item>Corsa</item>
+        <item>Astra</item>
+    </string-array>
+
+    <string-array name="volkswagen_model_array">
+        <item>Model</item>
+        <item>Golf</item>
+        <item>Polo</item>
+    </string-array>
+</resources>
